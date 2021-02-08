@@ -1,6 +1,4 @@
-In a world full of whys, say "why not?". In a world full of "can't", say "can do". In a world full of problems, we might as well solve them. 
-
-I took a break as my previous company closed for business during the COVID-19 global pandemic.  
+As my previous company closed down during the COVID-19 global pandemic, I took time off to learn new things that I was not able to while working.
 
 Now, I am looking for opportunities in Research and Development as I have been since my college days. I am very much interested in new challenges with regards to Data Science as I have been doing during my break. I am still into Software Engineering as I have done throughout my professional life.
 
