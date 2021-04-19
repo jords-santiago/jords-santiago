@@ -1,7 +1,5 @@
 As my previous company closed down during the COVID-19 global pandemic, I took time off to learn new things that I was not able to while working.
 
-Now, I am looking for opportunities in Research and Development as I have been since my college days. I am very much interested in new challenges with regards to Data Science as I have been doing during my break. I am still into Software Engineering as I have done throughout my professional life.
-
 Up until its closure, I worked as Software Engineer at Nokia Manila Technology Center with a position of Senior Specialist. I maintained a test tool software implemented in C used for performance testing of Nokia's controller products. I also had a role of Fault Coordinator where I monitored bugs reported against the software.
 
 Before that, I was previously a Senior Hardware Engineer at Canon Information Technologies Philippines, Inc. where I worked as a Design Verification Engineer. I had experience as a Configuration Management Lead, Quality Assurance Lead and Technical Lead in the various projects that I have been a part of in Canon.
