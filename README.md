@@ -1,4 +1,4 @@
-I am a Big Data Engineer for DFI Retail Group office in the Philippines.  I currently perform data modeling, development, maintenance and support of the company's data analytics platform mainly implemented in Microsoft Azure products such as Azure Data Factory, Azure Databricks and Azure SQL Data Warehouse.
+I was previously a Big Data Engineer for DFI Retail Group office in the Philippines.  I performed data modeling, development, maintenance and support of the company's data analytics platform mainly implemented in Microsoft Azure products such as Azure Data Factory, Azure Databricks and Azure SQL Data Warehouse.
 
 Up until its closure, I worked as Software Engineer at Nokia Manila Technology Center with a position of Senior Specialist. I maintained a test tool software implemented in C used for performance testing of Nokia's controller products. I also had a role of Fault Coordinator where I monitored bugs reported against the software.
 
